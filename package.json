@@ -1,0 +1,8 @@
+{
+  "name": "fis3-parser-tpl2js",
+  "version": "0.0.1",
+  "description": "基于FIS3的简易js模板",
+  "keywords" : "fis3,template",
+  "main": "index.js",
+  "author": "273-UED"
+}
